@@ -1,0 +1,9 @@
+name: YandereDevStyle
+version: 0.0.1
+api: 4.0.0
+main: NgLamVN\YandereDevStyle\Main
+src-namespace-prefix: NgLamVN\YandereDevStyle
+description: A pocketmine-mp plugin use YandereDev code style. j4f !
+commands:
+  yandere:
+    description: YANDERE !
