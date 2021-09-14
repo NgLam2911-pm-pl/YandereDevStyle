@@ -5271,7 +5271,7 @@ class Main extends PluginBase implements Listener{
 		return true;
 	}
 
-public function onDiesable(){
-$this->getServer()->broadcastMessage("death has came for me, SIKEE");
-}
+	public function onDiesable(){
+		$this->getServer()->broadcastMessage("death has came for me, SIKEE");
+	}
 }
